@@ -308,13 +308,13 @@ footer a {
   }
   iframe {
     width: 49%;
-    height: 200px;
+    height: 270px;
     display: inline;
     float: left;
   }
   section {
     width: 49%;
-    height: 200px;
+    height: 270px;
     display: inline-block;
     padding-bottom: 50px;
     border-radius: 25px;
@@ -327,6 +327,7 @@ footer a {
   }
   aside div {
     display: inline-block;
+    font-size: 0.8em;
     width: 33%;
     margin-left: -4px;
     margin-right: -4px;
